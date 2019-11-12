@@ -1,0 +1,36 @@
+Yiyang(Eric) Zhou
+9530 Baltimore Ave, College Park, MD, 20740· (612) 516-2045 · yiyang.zhou@rhsmith.umd.edu
+EDUCATION
+Robert H. Smith School of Business, University of Maryland, College Park, MD
+    Master of Science in Information System               GPA:3.43 						    		May 2017
+    Carlson School of Management, University of Minnesota, Twin Cities, MN
+Bachelor of Science, Double Major in accounting and finance, Minor: Insurance   					    2015
+* Cumulative GPA: 3.53/4.00
+* 150 credits by B.S. Graduation. Dean’s List
+
+EXPERIENCE
+Paradyme Management 
+Parsing Team?Greenbelt, MN				 	   				   	    			 June 2017- Current
+* Collaborate with 10 developers to researched text based machine learning techniques; Implemented Django web framework to develop an application for resume information extraction
+* Used agile software development methodology Held weekly sprint planning, review and retrospective meetings with product owner, scrum master and scrum team members
+Wells Fargo Home Mortgage
+Loan Servicing Specialist?Minneapolis, MN				 	   				       July 2015- May 2016
+* Reviewed bank notes, mortgage, loan modification documents and transaction history; Settled more than 10 cases per day in average to save more than 200 homes per month by avoiding foreclosure
+* Analyzed settlement process and proposed improvement plans in monthly meetings; Made 8 changes in checklist spreadsheet, increasing settlement efficiency by 12%
+* Obtained customer information and updated system records using various tools such as MSP and notary websites; Processed more than 70 scrubs per day; Communicated with other departments to ensure information accuracy
+Volunteer Tax Assistance Program
+Tax Preparer, Minneapolis, MN                                                 January 2015-April 2015
+* Collaborated with tax professionals in 5-day tax preparer training to attain tax return knowledge for both residents and non-residents; Attained license of Tax Preparer Certificate from IRS 
+* Communicated with more than 100 non-resident students; explained tax return process to clients; prepared more than 120 tax documents and got approximately $5,000 dollars returned for 2014 tax season
+
+ADDITIONAL INFORMAITON
+Big Data Project, Data Analyst			                                 		 March 2017 – May 2017
+*   Cooperated with 2 team members to build an item-based movie recommendation system using Spark Mllib; Implemented various tools on Hadoop Distributed File System to actualize supervised or unsupervised learning
+Data Mining Project, Data Analyst										 	     March 2017- April 2017
+*   Cooperated with 4 team members to research customers’ characteristics for bank marketing strategy; Built logistic regression model to run predictive analysis; Cross validated model and achieved model accuracy of 76%
+Database Management Project, Team Lead								  November 2016- December 2016
+* 	Led a team of 4 to provide information system consulting to 3 clients on integrated information of universities; Cleaned, scrubbed 6 data sheet of raw data and built back-end database for customized solution
+
+ADDITIONAL INFORMATION
+    Languages: Native speaker in Mandarin and Cantonese; English; 
+    Technical Skills: Proficient in MS Office Suite; Python; R; Tableau; SQL; HTML; SDLC
